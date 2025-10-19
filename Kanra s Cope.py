@@ -1,11 +1,11 @@
 import webview
 
-# URL of your web game
+
 url = "https://fataltotheflesh.com"
 
-# Create window
+
 webview.create_window(
-    "Kanra's Cope",    # Window title
+    "Kanra's Cope", 
     url,
     width=1000,
     height=600,
@@ -13,5 +13,6 @@ webview.create_window(
     fullscreen=False
 )
 
-# Start the app
+
 webview.start()
+# Yes I made this out of depression.
